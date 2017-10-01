@@ -11,15 +11,15 @@
     <title>Justified Nav Template for Bootstrap</title>
 
     <!-- Bootstrap core CSS -->
-    <link href="./css/bootstrap.min.css" rel="stylesheet">
+    <link type="text/css" href="${pageContext.request.contextPath}/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom styles for this template -->
-    <link href="justified-nav.css" rel="stylesheet">
+    <link type="text/css" href="${pageContext.request.contextPath}/justified-nav.css" rel="stylesheet">
   </head>
 
   <body>
 
-    <div class="container">
+    
 
       <div class="masthead">
           <br>
