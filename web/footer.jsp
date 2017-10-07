@@ -6,11 +6,12 @@
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!-- Site footer -->
-      <footer class="footer">
-        <p>&copy; Company 2017</p>
-      </footer>
+<div style="text-align: center">
+        <footer class="footer" style="position: fixed; bottom: 0;">
+            <p>&copy; EPS - DFL 2017 Todos los derechos reservados</p>
+          </footer>
+    </div>
 
-    
 
     <!-- Bootstrap core JavaScript
     ================================================== -->
