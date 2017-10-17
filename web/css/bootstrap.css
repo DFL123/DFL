@@ -26,6 +26,7 @@
     border: 1px solid #999;
     page-break-inside: avoid;
   }
+  
   thead {
     display: table-header-group;
   }
@@ -50,10 +51,12 @@
     border: 1px solid #000;
   }
   .table {
+      style:"margin: 0 auto;";
     border-collapse: collapse !important;
   }
   .table td,
   .table th {
+     style:"margin: 0 auto;";
     background-color: #fff !important;
   }
   .table-bordered th,
@@ -514,6 +517,13 @@ mark,
 .img-fluid {
   max-width: 100%;
   height: auto;
+}
+
+.img-rendond{
+    width: 300px;
+    height: 300px;
+    border-radius: 150px;
+    border: 10px solid #666;
 }
 
 .img-thumbnail {

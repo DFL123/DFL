@@ -7,7 +7,7 @@
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!-- Site footer -->
       <footer class="footer">
-        <p>&copy; Company 2017</p>
+          <p><center>&copy; Corporacion Universitaria Minuto de Dios 2017</center></p>
       </footer>
 
     
