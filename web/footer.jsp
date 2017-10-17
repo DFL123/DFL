@@ -6,11 +6,14 @@
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!-- Site footer -->
-      <footer class="footer">
-          <p><center>&copy; Corporacion Universitaria Minuto de Dios 2017</center></p>
-      </footer>
 
-    
+<div style="text-align: center">
+        <footer class="footer" style="position: fixed; bottom: 0;">
+            <p>&copy; EPS - DFL 2017 Todos los derechos reservados</p>
+          </footer>
+    </div>
+
+
 
     <!-- Bootstrap core JavaScript
     ================================================== -->

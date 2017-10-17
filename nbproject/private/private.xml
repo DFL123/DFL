@@ -3,7 +3,19 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
+<<<<<<< HEAD
             <file>file:/C:/Users/ACER/Documents/GitHub/DFL/web/institucional/quienesomos.jsp</file>
+=======
+<<<<<<< HEAD
+            <file>file:/C:/DFL/DFL/web/header.jsp</file>
+            <file>file:/C:/DFL/DFL/web/footer.jsp</file>
+            <file>file:/C:/DFL/DFL/web/index.jsp</file>
+            <file>file:/C:/DFL/DFL/web/css/bootstrap.min.css</file>
+            <file>file:/C:/DFL/DFL/web/institucional/nosotros.jsp</file>
+=======
+            <file>file:/D:/Proyecto/DFL/web/footer.jsp</file>
+>>>>>>> fabian
+>>>>>>> c3c230976687df362c50c5e986610e4365761f89
         </group>
     </open-files>
 </project-private>

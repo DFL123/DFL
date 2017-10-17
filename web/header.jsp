@@ -19,8 +19,6 @@
 
   <body>
 
-    
-
       <div class="masthead">
           <br>
           <h3 class="text-muted"><center><b>EPS - DFL</b></center></h3>
@@ -32,7 +30,7 @@
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav text-md-center nav-justified w-100">
               <li class="nav-item active">
-                <a class="nav-link" href="#">Inicio <span class="sr-only">(current)</span></a>
+                <a class="nav-link" href="./index.html">Inicio <span class="sr-only">(current)</span></a>
               </li>
               <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle"  id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Nosotros</a>
